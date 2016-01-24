@@ -1,4 +1,8 @@
 12345
 54321
 222
-branch&
+<<<<<<< HEAD
+branchand
+=======
+branchand
+>>>>>>> file1
