@@ -6,3 +6,4 @@ branchand
 =======
 branchand
 >>>>>>> file1
+123
